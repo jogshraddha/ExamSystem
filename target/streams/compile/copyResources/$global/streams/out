@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/synerzip/Projects/ExamSystem/conf/application.conf,/home/synerzip/Projects/ExamSystem/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/synerzip/Projects/ExamSystem/conf/logback.xml,/home/synerzip/Projects/ExamSystem/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/synerzip/Projects/ExamSystem/conf/routes,/home/synerzip/Projects/ExamSystem/target/scala-2.11/classes/routes)[0m
